@@ -17,5 +17,8 @@
         "canvas": "2.6.1",
         "commander": "6.0.0",
         "koa": "2.13.0"
+    },
+    "devDependencies": {
+        "pm2": "4.4.1"
     }
 }
